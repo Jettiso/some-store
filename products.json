@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "yellow chair",
+            "price": 30.99,
+            "image": "/furnitures/yellow-chair.jpg"
+        },
+        {
+            "id": 2,
+            "name": "gray chair",
+            "price": 30.99,
+            "image": "/furnitures/graychair.jpg"
+        },
+        {
+            "id": 3,
+            "name": "bed",
+            "price": 499.99,
+            "image": "/furnitures/bed.jpg"
+        },
+        {
+            "id": 4,
+            "name": "another bed",
+            "price": 399.99,
+            "image": "/furnitures/bed2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "some bed",
+            "price": 499.99,
+            "image": "/furnitures/bed4.jpg"
+        },
+        {
+            "id": 6,
+            "name": "extra bed",
+            "price": 599.99,
+            "image": "/furnitures/bed3.jpg"
+        },
+        {
+            "id": 7,
+            "name": "cabinet",
+            "price": 55.70,
+            "image": "/furnitures/cabinet.jpg"
+        },
+        {
+            "id": 8,
+            "name": "shelf",
+            "price": 91.99,
+            "image": "/furnitures/shelf.jpg"
+        },
+        {
+            "id": 9,
+            "name": "green sofa",
+            "price": 79.99,
+            "image": "/furnitures/greensofa.jpg"
+        }
+        
+        
+    ]
+}
