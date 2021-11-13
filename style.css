@@ -183,7 +183,6 @@ body {
 }
 
 .product-img {
-	height: 250px;
 	width: 100%;
   }
 
@@ -213,6 +212,7 @@ body {
     padding: 1rem 1.5rem;
     cursor: pointer;
     color: #fff;
+	text-transform: uppercase;
 }
 
 .section-title {
